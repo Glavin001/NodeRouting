@@ -1,0 +1,22 @@
+{
+  "name": "noderouting",
+  "version": "1.0.0",
+  "description": "Skill test for The Money Finder",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsum04/NodeRouting.git"
+  },
+  "author": "Arsum Iqbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsum04/NodeRouting/issues"
+  },
+  "homepage": "https://github.com/arsum04/NodeRouting#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
